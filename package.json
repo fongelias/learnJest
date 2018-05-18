@@ -1,0 +1,25 @@
+{
+  "name": "learnjest",
+  "version": "1.0.0",
+  "description": "Jest demos for mocking",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fongelias/learnJest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fongelias/learnJest/issues"
+  },
+  "homepage": "https://github.com/fongelias/learnJest#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^22.4.3"
+  }
+}
